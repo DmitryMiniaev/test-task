@@ -1,4 +1,4 @@
-# REST Api
+#REST Api for money transfers between predefined accounts
 
 ```
 get balance
