@@ -1,4 +1,4 @@
-# REST Api for money transfers between predefined accounts
+#### REST Api for money transfers between predefined accounts
 
 ```
 get balance
@@ -14,7 +14,7 @@ execute transfer
 curl -i -X PUT http://localhost:9000/api/v1/transfers/${id}
 ```
 
-# Predefined accounts
+#### Predefined accounts
 
 ```
 Account(id = 1, amount = 740))
